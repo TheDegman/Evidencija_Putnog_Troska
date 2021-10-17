@@ -61,7 +61,7 @@ namespace Evidencija_Putnog_Troska
             // UNOS
             // 
             this.UNOS.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.UNOS.Location = new System.Drawing.Point(193, 216);
+            this.UNOS.Location = new System.Drawing.Point(209, 216);
             this.UNOS.Name = "UNOS";
             this.UNOS.Size = new System.Drawing.Size(161, 43);
             this.UNOS.TabIndex = 0;
@@ -245,7 +245,7 @@ namespace Evidencija_Putnog_Troska
             // button1
             // 
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(387, 216);
+            this.button1.Location = new System.Drawing.Point(403, 216);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(161, 43);
             this.button1.TabIndex = 17;
