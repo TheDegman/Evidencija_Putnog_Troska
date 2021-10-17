@@ -23,6 +23,7 @@ namespace Evidencija_Putnog_Troska
         private void UNOS_Click(object sender, EventArgs e)
         {
             string filePath = "D:\\Izvjesce.xlsx";
+            //string filePath = "D:\\Visual Studio\\NiOP\\Evidencija_Putnog_Troska\\Evidencija_Putnog_Troska\\Izvjesce.xlsx";
 
 
             FileInfo file = new FileInfo(filePath);
